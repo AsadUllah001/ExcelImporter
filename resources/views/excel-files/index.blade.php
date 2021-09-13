@@ -41,7 +41,7 @@
                 </tr>
                 @empty
                 <div class="alert alert-warning">
-                   No Record Exist,
+                    No Record Exist
                 </div>
                 @endforelse
             </tbody>
